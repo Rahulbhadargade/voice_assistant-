@@ -1,5 +1,4 @@
 # voice_assistant-
-# Virtual Voice Assistant
 
 # Description
 A virtual voice assistant built using Python. This assistant can perform various tasks like responding to queries, setting reminders, fetching information, and more, using natural language processing and speech recognition.
@@ -15,6 +14,15 @@ A virtual voice assistant built using Python. This assistant can perform various
 - pip (Python package installer)
 
 # Required Libraries
+- import pyttsx3 
+- import speech_recognition as sr 
+- import datetime
+- import wikipedia 
+- import webbrowser
+- import os
+- import smtplib
+- import tkinter
+- from tkinter import *
 You can install the necessary libraries using the following command:
 
 ```bash
